@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/repos/!svn/ver/11453/smack/branches/bosh/smack-bosh/src/main/java/org/jivesoftware/smack
+END
+BOSHConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/repos/!svn/ver/11325/smack/branches/bosh/smack-bosh/src/main/java/org/jivesoftware/smack/BOSHConfiguration.java
+END
+BOSHPacketReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/repos/!svn/ver/11453/smack/branches/bosh/smack-bosh/src/main/java/org/jivesoftware/smack/BOSHPacketReader.java
+END
+BOSHConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/repos/!svn/ver/11325/smack/branches/bosh/smack-bosh/src/main/java/org/jivesoftware/smack/BOSHConnection.java
+END
